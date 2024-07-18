@@ -1,4 +1,5 @@
-# Chex-GAN
+# Chex-GANS
+
 
 Chex-GANS is a project aimed at generating chest X-ray images using Generative Adversarial Networks (GANs). This repository contains implementations of three different GAN architectures for this task: Vanilla GANs, Wasserstein GANs (WGANs), and Deep Convolutional GANs (DCGANs).
 
